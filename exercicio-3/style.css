@@ -1,0 +1,20 @@
+.botao-sim {
+
+    background-color: black;
+    color: white;
+
+}
+
+.botao-nao {
+
+    background-color: yellow;
+
+}
+
+.botao-nao,
+.botao-sim {
+
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+
+}
